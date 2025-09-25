@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/esam-web-dev/static/css/main.e091196d.css",
+    "main.js": "/esam-web-dev/static/js/main.8cd59aa6.js",
+    "static/js/453.97cb649a.chunk.js": "/esam-web-dev/static/js/453.97cb649a.chunk.js",
+    "static/media/layerPhoto.png": "/esam-web-dev/static/media/layerPhoto.774706537476a52343cf.png",
+    "static/media/MyPh.jpg": "/esam-web-dev/static/media/MyPh.faee49bc40d1971345b3.jpg",
+    "static/media/coder.jpg": "/esam-web-dev/static/media/coder.9b7ea34551237eb7675d.jpg",
+    "static/media/logoo.png": "/esam-web-dev/static/media/logoo.de71c7410c71c51a4303.png",
+    "static/media/blog2.jpg": "/esam-web-dev/static/media/blog2.8831b7d970aa4a4a1f4d.jpg",
+    "static/media/blog1.jpg": "/esam-web-dev/static/media/blog1.744fa67266214c8f1081.jpg",
+    "static/media/blog3.jpg": "/esam-web-dev/static/media/blog3.1bf008bd2c6ff7018c99.jpg",
+    "static/media/slick.svg": "/esam-web-dev/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/esam-web-dev/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/esam-web-dev/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/esam-web-dev/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/esam-web-dev/index.html",
+    "main.e091196d.css.map": "/esam-web-dev/static/css/main.e091196d.css.map",
+    "main.8cd59aa6.js.map": "/esam-web-dev/static/js/main.8cd59aa6.js.map",
+    "453.97cb649a.chunk.js.map": "/esam-web-dev/static/js/453.97cb649a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e091196d.css",
+    "static/js/main.8cd59aa6.js"
+  ]
+}
