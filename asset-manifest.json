@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/esam-web-dev/static/css/main.e091196d.css",
-    "main.js": "/esam-web-dev/static/js/main.8cd59aa6.js",
+    "main.js": "/esam-web-dev/static/js/main.85586543.js",
     "static/js/453.97cb649a.chunk.js": "/esam-web-dev/static/js/453.97cb649a.chunk.js",
     "static/media/layerPhoto.png": "/esam-web-dev/static/media/layerPhoto.774706537476a52343cf.png",
     "static/media/MyPh.jpg": "/esam-web-dev/static/media/MyPh.faee49bc40d1971345b3.jpg",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/esam-web-dev/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/esam-web-dev/index.html",
     "main.e091196d.css.map": "/esam-web-dev/static/css/main.e091196d.css.map",
-    "main.8cd59aa6.js.map": "/esam-web-dev/static/js/main.8cd59aa6.js.map",
+    "main.85586543.js.map": "/esam-web-dev/static/js/main.85586543.js.map",
     "453.97cb649a.chunk.js.map": "/esam-web-dev/static/js/453.97cb649a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e091196d.css",
-    "static/js/main.8cd59aa6.js"
+    "static/js/main.85586543.js"
   ]
 }
