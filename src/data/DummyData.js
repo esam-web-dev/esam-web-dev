@@ -42,53 +42,52 @@ export const navLink = [
 
 export const homeWriter = [
   {
-    text: "HELLO I'M",
-    name: "Esam AbuKlam",
-    post: "WEB DESIGNER",
-    design: "UI / UX DESIGNER",
-    desc: "I am a Information Engineering Student.I am a beginner Frontend Developer. I have completed several educational courses in this field.",
+   text: "HELLO I'M",
+name: "Esam AbuKlam",
+post: "JUNIOR FULL STACK MERN DEVELOPER",
+design: "REACT & NODE.JS DEVELOPER",
+desc: "I am an Information Engineering student and a passionate Junior Full Stack MERN Developer. I specialize in building responsive and scalable web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy turning ideas into real-world applications and continuously improving my development skills."
   },
 ];
 
 export const services = [
   {
     id: 1,
-    icon: <Settings />,
-    title: "Creative Design",
-    desc: "Innovative designs focused on creating visually appealing and unique experiences.",
+    icon: <Code />,
+    title: "Frontend Development",
+    desc: "Building responsive and interactive user interfaces using React.js, JavaScript, HTML5, and CSS3.",
   },
   {
     id: 2,
-    icon: <CropRotate />,
-    title: "Clean Code",
-    desc: "Writing high-quality, organized, and maintainable code.",
+    icon: <Settings />,
+    title: "Backend Development",
+    desc: "Creating scalable server-side applications and RESTful APIs using Node.js and Express.js.",
   },
   {
     id: 3,
     icon: <ViewInAr />,
-    title: "Responsive Design",
-    desc: "Design that adapts to all screen sizes, ensuring an excellent user experience across all devices.",
+    title: "Responsive Web Design",
+    desc: "Developing websites that provide a seamless experience across desktop, tablet, and mobile devices.",
   },
   {
     id: 4,
     icon: <PieChart />,
-    title: "Material UI",
-    desc: "Using modern UI elements with material design principles for sleek and functional interfaces.",
+    title: "Database Management",
+    desc: "Designing and managing databases using MongoDB for efficient data storage and retrieval.",
   },
   {
     id: 5,
-    icon: <Code />,
-    title: "Material UI Icons",
-    desc: "Providing a collection of material design icons for easy interaction and usability",
+    icon: <CropRotate />,
+    title: "REST API Integration",
+    desc: "Integrating frontend applications with backend services and third-party APIs.",
   },
   {
     id: 6,
     icon: <BarChart />,
-    title: "Awesome Support",
-    desc: "Offering exceptional technical support to quickly and efficiently resolve issues. Let me know if you need anything else!",
+    title: "Version Control & Deployment",
+    desc: "Using Git, GitHub, and modern deployment platforms to manage and publish web applications.",
   },
 ];
-
 export const project = [
   {
     id: "Happy CLIENTS",
@@ -122,7 +121,7 @@ export const portfiloProjects = [
   {
     cover: coderImage,
     name: "weathier-proj",
-    title: "https://esam-web-dev.github.io/weathier-proj/",
+    title: "https://esam-web-dev.github.io/weather-app/",
     cat: "React",
   },
   {
@@ -135,6 +134,18 @@ export const portfiloProjects = [
     cover: coderImage,
     name: "PrayerTimesApp",
     title: "https://esam-web-dev.github.io/PrayerTimesApp/",
+    cat: "React",
+  },
+  {
+    cover: coderImage,
+    name: "E-Commerce-App",
+    title: "https://esam-web-dev.github.io/React-E-Commerce-App/",
+    cat: "React",
+  },
+  {
+    cover: coderImage,
+    name: "SolnHub-Landing-Page",
+    title: "https://esam-web-dev.github.io/SolnHub-React-Landing-Page/",
     cat: "React",
   },
   {
