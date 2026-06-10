@@ -15,11 +15,9 @@ export const About = () => {
                         </div>
                         <div className="right" data-aos='fade-down-left'>
                             <Heading titlePar="About Me" />
-                            <p style={{textAlign:"left", lineHeight:1.5}}> I'm a fifth-year Computer Science student with a strong passion for Front-End Development.
-                                Over the past few years, I’ve been actively learning, building, and teaching modern web technologies.
-                                I specialize in creating clean, responsive, and user-friendly interfaces using HTML, CSS, JavaScript, and frameworks like React.
-                                Alongside my studies, I also teach Front-End development, which has helped me deepen my knowledge and improve my communication skills.
-                                I enjoy turning ideas into real, interactive web experiences and I’m always eager to learn and explore the latest trends in web development.</p>
+                            <p style={{textAlign:"left", lineHeight:1.5}}> I am a recent graduate in Information Engineering with a strong passion for Full Stack Web Development. I specialize in building modern, responsive, and user-friendly web applications using the MERN Stack (MongoDB, Express.js, React.js, and Node.js).
+Throughout my academic journey and personal projects, I have gained hands-on experience in both front-end and back-end development, creating scalable and interactive web solutions. I enjoy transforming ideas into real-world applications while focusing on clean code, performance, and user experience.
+As a lifelong learner, I continuously explore new technologies and development practices to improve my skills and stay up to date with the latest trends in web development.</p>
                         </div>
                     </>
                 
