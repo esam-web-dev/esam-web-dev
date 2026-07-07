@@ -150,7 +150,7 @@ export const portfiloProjects = [
   },
   {
     cover: coderImage,
-    name: "MealDB_Food_Recipe_App",
+    name: "MealDB_Food_Recipe",
     title: "https://esam-web-dev.github.io/mealdb-food-recipe-app/",
     cat: "React",
   },
