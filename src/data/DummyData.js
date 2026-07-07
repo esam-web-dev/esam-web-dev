@@ -150,6 +150,12 @@ export const portfiloProjects = [
   },
   {
     cover: coderImage,
+    name: "MealDB_Food_Recipe_App",
+    title: "https://esam-web-dev.github.io/mealdb-food-recipe-app/",
+    cat: "React",
+  },
+  {
+    cover: coderImage,
     name: "Password-Generator-with-Options",
     title: "https://esam-web-dev.github.io/Password-Generator-with-Options/",
     cat: "Html-Css-Js",
