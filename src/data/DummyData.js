@@ -126,7 +126,7 @@ export const portfiloProjects = [
   },
   {
     cover: coderImage,
-    name: "weathier-proj",
+    name: "dashboard-ui",
     title: "https://esam-web-dev.github.io/dashboard-ui",
     cat: "React",
   },
